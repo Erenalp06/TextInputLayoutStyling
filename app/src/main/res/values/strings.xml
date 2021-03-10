@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextInputLayoutStyling</string>
+    <string name="text">Text</string>
+    <string name="outlinedbox">OutlinedBox</string>
+    <string name="filledbox">FilledBox</string>
+    <string name="error" />
+
+
+</resources>
